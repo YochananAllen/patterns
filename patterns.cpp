@@ -1,5 +1,6 @@
 // patterns.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //Name: Yochanan ALlen 
+// Write a code that will display like the example 
 
 #include <iostream>
 
